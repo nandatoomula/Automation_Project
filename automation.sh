@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # 1 - Basic ( Updating packages and initializing variables)
-
+# This is for Automation-v0.1 commit 
 #Updating the packages
 apt update -y
 
